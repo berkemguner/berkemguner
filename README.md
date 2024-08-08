@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Berkem! 👋
 
-<!--
-**berkemguner/berkemguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Berkem, and I love coding and want to get better at it. 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about coding and software development.
+- 🎯 Constantly learning and improving my skills.
+- 🌱 Exploring new technologies and frameworks.
+
+## Get in Touch
+
+- 📧 [Email](mailto:berkemguner@gmail.com)
+
+Feel free to check out my repositories and see what I'm working on. Let's connect and collaborate! 😊
